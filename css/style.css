@@ -70,6 +70,7 @@ header {
     display: inline-block;
     height: 350px;
     width: 360px;
+    background-color: #fff;
     border-radius: 2%;
 }
 .second-box {
@@ -82,7 +83,7 @@ header {
     position: absolute;
     top: 28px;
     left: 40px;
-    color: white;
+    color: #fff;
     font-family: "Roboto", sans-serif;
     font-size: 16px;
 }
@@ -113,7 +114,7 @@ header {
     position: absolute;
     bottom: 20px;
     right: 20px;
-    color: white;
+    color: #fff;
     font-family: 'Roboto', sans-serif;
     font-weight: bold;
 }
@@ -130,7 +131,7 @@ header {
     position: absolute;
     top: 18px;
     left: 40px;
-    color: white;
+    color: #fff;
     font-family: 'Roboto', sans-serif;
     font-weight: bold;
 }
